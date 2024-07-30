@@ -343,7 +343,6 @@ section.combi .con .card>ul.main>li:nth-child(4) i {
 /* 뒷면은 사전에 미리 뒤집기 */
 .combi .con .card>ul.mini li .back { 
   transform: rotateY(180deg);
-  border-radius: 5px;
 }
 /* 호버 시 뒤집기 */
 .combi .con .card>ul.mini li:hover {
