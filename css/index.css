@@ -614,6 +614,7 @@ footer .left h1 a img {
   width: 80px;
 }
 footer .left .txt {
+  width: 100%;
   color: #333; font-size: 12px; line-height: 16px;
 }
 footer .left .copy {
