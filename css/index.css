@@ -263,7 +263,7 @@ section.search {
 /* combi */
 section.combi {
   height: 1100px;
-  background: #FAFFF6;
+  background: linear-gradient(180deg, #FFF 0%, #FAFFF6 17.5%, #FAFFF6 100%);
   flex-direction: column; align-items: center; justify-content: center;
 }
 .combi .con {
