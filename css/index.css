@@ -302,7 +302,7 @@ section.combi .con .card>ul.main>li:nth-child(2) span {
 }
 section.combi .con .card>ul.main>li:nth-child(3) {
   color: #222222; text-align: center; font-family: 'InkLipquid';
-  font-size: 48px; line-height: normal;
+  font-size: 44px; line-height: normal;
 }
 section.combi .con .card>ul.main>li:nth-child(3) span {
   color: #578B38;
@@ -436,7 +436,7 @@ section.prom {
   transform-origin : 100% 100%;
 }
 .prom ul.cou li .txt_cou h3 {
-  font-family: "Noto Sans KR"; font-size: 27px;
+  font-family: "Noto Sans KR", sans-serif; font-size: 27px;
   font-weight: 700; line-height: normal;
   margin-left: 50px;
 }
@@ -446,7 +446,7 @@ section.prom {
   display: flex; flex-direction: column; justify-content: space-between;
 }
 .prom ul.cou li>.txt_cou>.txt_box>p {
-  color: #FFF; font-family: "Noto Sans KR"; font-size: 12px; line-height: 1.4;
+  color: #FFF; font-family: "Noto Sans KR", sans-serif; font-size: 12px; line-height: 1.4;
   text-align: left; margin-left: 50px;
 }
 .prom ul.cou li>.txt_cou>.txt_box>span {
