@@ -43,7 +43,7 @@ header .con {
 }
 header h1 {
   width: 200px; height: 73px;
-  background-image: url(./img/logo.png);
+  background-image: url(../img/logo.png);
   background-size: 194px;
   background-repeat: no-repeat;
   margin-bottom: 25px;
@@ -131,7 +131,7 @@ section.banner {
 }
 .banner .con {
   width: 1563px; height: 100%;
-  background-image: url(/img/banner.png);
+  background-image: url(../img/banner.png);
   background-size: 1563px;
   position: relative;
   display: flex; align-items: center;
@@ -354,48 +354,48 @@ section.combi .con .card>ul.main>li:nth-child(4) i {
   margin-top: 60px;
 }
 .combi .con .card>ul.mini li.mini1 {
-  background-image: url(/img/new_shavejeolmi.png);
+  background-image: url(../img/new_shavejeolmi.png);
 }
 .combi .con .card>ul.mini li.mini1 p {
   color: #742111;
 }
 .combi .con .card>ul.mini li.mini1 .back {
-  background-image: url(/img/new_shavejeolmi_hover.png);
+  background-image: url(../img/new_shavejeolmi_hover.png);
 }
 .combi .con .card>ul.mini li.mini2 {
-  background-image: url(/img/new_donutm.png);
+  background-image: url(../img/new_donutm.png);
 }
 .combi .con .card>ul.mini li.mini2 p{
   color: #D1CFC6;
 }
 .combi .con .card>ul.mini li.mini2 .back {
-  background-image: url(/img/new_donutm_hover.png);
+  background-image: url(../img/new_donutm_hover.png);
 }
 .combi .con .card>ul.mini li.mini3 {
-  background-image: url(/img/new_icebox.png);
+  background-image: url(../img/new_icebox.png);
   margin-bottom: 0;
 }
 .combi .con .card>ul.mini li.mini3 p{
   color: #04BAFB;
 }
 .combi .con .card>ul.mini li.mini3 .back {
-  background-image: url(/img/new_icebox_hover.png);
+  background-image: url(../img/new_icebox_hover.png);
 }
 .combi .con .card>ul.mini li.mini4 {
-  background-image: url(/img/new_breadmocha.png);
+  background-image: url(../img/new_breadmocha.png);
   margin-bottom: 0;
 }
 .combi .con .card>ul.mini li.mini4 p {
   color: #AB612B;
 }
 .combi .con .card>ul.mini li.mini4 .back {
-  background-image: url(/img/new_breadmocha_hover.png);
+  background-image: url(../img/new_breadmocha_hover.png);
 }
 
 /* prom */
 section.prom {
   height: 1649px;
-  background-image: url(/img/prom_bg.png);
+  background-image: url(../img/prom_bg.png);
   justify-content: center; align-items: center;
 }
 .prom .con {
@@ -470,7 +470,7 @@ section.prom {
   color: #33884F; font-weight: bold;
 }
 .prom ul.cou li:nth-child(1)>.img_cou {
-  background-image: url(/img/img_cou1.png);
+  background-image: url(../img/img_cou1.png);
 }
 .prom ul.cou li:nth-child(2) {}
 .prom ul.cou li:nth-child(2)>.txt_cou {
@@ -481,7 +481,7 @@ section.prom {
 }
 .prom ul.cou li:nth-child(2)>.img_cou {
   border-radius: 0 20px 20px 0;
-  background-image: url(/img/img_cou2.png);
+  background-image: url(../img/img_cou2.png);
 }
 .prom ul.cou li:nth-child(2)>.txt_cou>h3>b {
   color: #5C3010;
@@ -492,7 +492,7 @@ section.prom {
 .prom ul.cou li:nth-child(3) {}
 .prom ul.cou li:nth-child(3)>.txt_cou {
   border-left: 2px dashed #120625;
-  background-image: url(/img/txt_cou3.png);
+  background-image: url(../img/txt_cou3.png);
   color: #fff;
 }
 .prom ul.cou li:nth-child(3)>.txt_cou>h3>b {
@@ -509,7 +509,7 @@ section.prom {
   font-weight: bold;
 }
 .prom ul.cou li:nth-child(3)>.img_cou {
-  background-image: url(/img/img_cou3.png);
+  background-image: url(../img/img_cou3.png);
 }
 
 /* scroll */
@@ -569,25 +569,25 @@ section.scroll {
   color: #333; font-weight: 600;
 }
 .scroll ul.tab1 li:first-child .img {
-  background-image: url(/img/card_near.png);
+  background-image: url(../img/card_near.png);
 }
 .scroll ul.tab1 li:first-child .txt h4 {
   position: absolute; top: -32px; left: 96px;
 }
 .scroll ul.tab1 li:last-child .img {
-  background-image: url(/img/card_bulk.png);
+  background-image: url(../img/card_bulk.png);
 }
 .scroll ul.tab1 li:last-child .txt h4 {
   position: absolute; top: -32px; left: 85px;
 }
 .scroll ul.tab2 li:first-child .img {
-  background-image: url(/img/card_app.png);
+  background-image: url(../img/card_app.png);
 }
 .scroll ul.tab2 li:first-child .txt h4 {
   position: absolute; top: -32px; left: 65px;
 }
 .scroll ul.tab2 li:last-child .img {
-  background-image: url(/img/card_new.png);
+  background-image: url(../img/card_new.png);
 }
 .scroll ul.tab2 li:last-child .txt h4 {
   position: absolute; top: -32px; left: 86px;
