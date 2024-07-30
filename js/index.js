@@ -11,4 +11,14 @@ $(function () {
   $(document).ready(function () {
     AOS.init();
   });
+
+    let nav
+  $('.fixed').click(function (e) {
+    e.preventDefault();
+    $selector = $(this).children('a').attr('href')
+    nav = $($selector).offset().top;
+    $('html,body').animate({
+      scrollTop: nav,
+    }, 500);
+  });
 });
