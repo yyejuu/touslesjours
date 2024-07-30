@@ -145,7 +145,7 @@ section.banner {
   text-align: center; font-weight: 400; line-height: 1.4;
 }
 .banner ul.txt li:first-child {
-  color: #4E8928; font-family: "THEFACESHOP INKLIPQUID"; font-size: 50px;
+  color: #4E8928; font-family: 'InkLipquid'; font-size: 50px;
 }
 .banner ul.txt li:last-child {
   color: #616161; font-family: "SeoulNamsanM"; font-size: 17px;
